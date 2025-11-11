@@ -1,7 +1,7 @@
 pkgname=rib
 pkgver=1.0
 pkgrel=1
-pkgdesc='rib (Run in Background) - a simple utility for running applications independently of the console. by PhimOSisDev'
+pkgdesc='rib (Run in Background) - a simple utility for running applications independently of the console. by Phimos-Is Dev'
 arch=('any')
 license=('MIT')
 depends=('bash')
