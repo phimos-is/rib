@@ -8,4 +8,4 @@ fi
 nohup "$@" >/dev/null 2>&1 & disown
 echo "started: $@"
 
-# by PhimOSisDev
+# by Phimos-Is Dev
